@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209541996134",
+    "project_id": "flutter-ai-868fb",
+    "storage_bucket": "flutter-ai-868fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209541996134:android:8388e7ead166b4cde217a7",
+        "android_client_info": {
+          "package_name": "com.example.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1LM1P2TSd5UfUoTG4A0a8rSKf4ASxiQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
